@@ -1,0 +1,43 @@
+#codigo--nombre----precioUnitario---descripcionUnidad---inventario---minimo 
+10 *tomate 	*800 	*porcion 200 gr 	*87 *29
+11 *cebolla 	*700 	*libra			 *93 *31
+12 *ajo 	*200 	*libra 			*63 *21
+13 *cilantro 	*200 	*porcion 100 gr		 *21 *7
+14 *aguacate 	*2000 	*porcion 100 gr		 *27 *9
+15 *zanahoria 	*1100 	*porcion 200 gr.	 *39 *13
+16 *limon 	*900 	*porcion 100 gr 	*15 *5
+17 *papa 	*800 	*libra 			*30 *10
+18 *maiz 	*100 	*libra 			*45 *15
+19 *platano 	*1200 	*porcion 100 gr 	*30 *10 
+20 *arroz 	*3000 	*libra 			*51 *17
+21 *frijoles 	*2300 	*porcion 200 gr 	*15 *5
+22 *carne 	*5500 	*porcion 300 gr 	*81 *27
+23 *pollo 	*4800 	*porcion 300 gr 	*78 *26
+24 *pescado 	*7000 	*porcion 200 gr 	*12 *4
+25 *miga de pan *1000 	*porcion 150gr		*18 *6
+26 *huevo 	*500	 *porcion 200 gr 	*39 *13
+27 *harina fina *2000 	*libra 			*48 *16
+28 *harina pan  *1800 	*porcion 200 gr 	*24 *8
+29 *aceite 	*2400 	*libra 			*60 *20
+30 *pimenton 	*800 	*porcion 100 gr 	*33 *11
+31 *leche 	*2200 	*porcion 100 gr 	*12 *4
+32 *pan 	*3000 	*libra 			*24 *8
+33 *tocineta 	*1500 	*porcion 200 gr 	*24 *8
+34 *chorizo 	*2200 	*porcion 300 gr 	*21 *7
+35 *mariscos 	*8600 	*porcion 100 gr 	*30 *10
+36 *champinones *1100 	*libra 			*21 *7
+37 *queso costeno *2900 *porcion 200 gr 	*36 *12
+38 *queso mozarella *2200 *libra 		*51 *17
+39 *jamón 	*2200 	*porcion 200 gr 	*15 *5
+40 *mantequilla *1300 	*libra 			*36 *12
+41 *ketchup 	*1400	 *libra 		*6 *2
+42 *mayonesa 	*1700	 *porcion 200 gr 	*18 *6
+43 *galleta de soda *500 *porcion 100 gr 	*12 *4
+44 *atún 	*2500 	*libra 			*4 *1
+45 *pasta 	*3900 	*porcion 200 gr 	*33 *11
+46 *crema de leche *2100 *porcion 100 gr 	*33 *11
+47 *queso parmesano *4500 *porcion 100 gr 	*24 *8
+48 *suero costeño *2300	 *porcion 100 gr 	*12 *4
+49 *salmon 	*7500	 *porcion 200 gr 	*8 *1
+50 *aceituna 	*600 	*libra 			*12 *4
+0

@@ -1,0 +1,591 @@
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+110 *bandeja paisa *carta *ju 
+#ingredientes 
+13 1 
+14 1 
+19 1 
+20 2 
+21 2 
+22 2 
+26 1 
+0 
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+120 *nachos *diario 
+#ingredientes 
+10 2 
+11 1 
+13 1 
+14 1 
+16 1 
+18 1 
+21 1 
+23 2 
+48 1 
+0 
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+130 *pizza vegetariana *carta *ma 
+#ingredientes 
+10 2 
+11 1 
+12 1 
+18 1 
+27 1 
+30 1 
+36 1 
+38 2 
+50 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+140 *pizza margarita *carta *lu 
+#ingredientes 
+10 2 
+11 1 
+27 1 
+38 3 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+150 *hamburguesa *carta *vi 
+#ingredientes 
+10 1 
+11 1 
+17 1 
+22 2 
+29 1 
+32 1 
+33 1 
+38 1 
+41 1 
+42 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+160 *choripan *diario 
+#ingredientes 
+14 1 
+17 1 
+29 1 
+34 2 
+37 1 
+41 1 
+42 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+170 *sandwich simple *diario 
+#ingredientes 
+10 1 
+32 2 
+38 2 
+39 2 
+40 1 
+42 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+180 *sandwich mexicano *carta *mi 
+#ingredientes 
+10 1 
+11 1 
+12 1 
+13 1 
+14 1 
+16 1 
+18 1 
+22 2 
+32 2 
+37 1 
+48 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+190 *pizza mexicana *diario 
+#ingredientes 
+10 2 
+11 1 
+12 1 
+13 1 
+18 1 
+27 1 
+30 1 
+36 1 
+38 2 
+50 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+200 *pizza carnes *carta *sa 
+#ingredientes 
+10 2 
+22 1 
+27 1 
+33 1 
+34 1 
+38 2 
+39 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+210 *torta zanahoria *carta *do 
+#ingredientes 
+15 3 
+26 1 
+27 1 
+31 1 
+40 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+220 *ensalada *diario 
+#ingredientes 
+10 1 
+18 1 
+26 1 
+30 1 
+36 1 
+37 1 
+42 1 
+44 1 
+49 1 
+50 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+230 *pabellon *diario 
+#ingredientes 
+10 1 
+11 1 
+12 1 
+19 1 
+20 1 
+21 1 
+22 1 
+29 1 
+30 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+240 *atun con galleta *diario 
+#ingredientes 
+10 1 
+11 2 
+16 1 
+18 1 
+42 1 
+43 2 
+44 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+250 *pasta carbonara *carta *ma 
+#ingredientes 
+26 3 
+29 1 
+33 2 
+45 2 
+47 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+260 *pasta bolonesa *carta *mi 
+#ingredientes 
+10 1 
+11 1 
+12 1 
+22 2 
+29 1 
+30 1 
+45 2 
+47 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+270 *pasta al burro *diario 
+#ingredientes 
+12 1 
+40 2 
+45 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+280 *arepa de carne *diario 
+#ingredientes 
+10 1 
+11 1 
+12 1 
+22 2 
+28 2 
+29 1 
+30 1 
+40 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+290 *arepa de pollo *carta *do 
+#ingredientes 
+10 1 
+11 1 
+12 1 
+15 1 
+23 2 
+28 2 
+29 1 
+40 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+300 *arepa de queso *diario 
+#ingredientes 
+28 2 
+29 1 
+37 2 
+40 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+310 *guacamole *carta *ju 
+#ingredientes 
+11 2 
+12 1 
+13 1 
+14 3 
+16 1 
+29 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+320 *mazorcada *carta *ju 
+#ingredientes 
+17 1 
+18 3 
+22 1 
+23 1 
+29 1 
+34 1 
+37 2 
+48 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+330 *arepa de choclo *carta *lu 
+#ingredientes 
+18 2 
+28 2 
+31 1 
+37 2 
+40 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+340 *picada *diario 
+#ingredientes 
+11 1 
+12 1 
+17 1 
+22 2 
+23 2 
+30 1 
+34 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+350 *ajiaco *diario 
+#ingredientes 
+14 1 
+17 2 
+18 1 
+20 1 
+23 2 
+46 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+360 *Noqui de platano  *diario 
+#ingredientes 
+11 1 
+19 3 
+27 2 
+40 1 
+46 1 
+47 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+370 *pasta tres quesos *carta *vi 
+#ingredientes 
+11 1 
+12 1 
+31 1 
+37 1 
+38 1 
+40 1 
+45 2 
+46 2 
+47 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+380 *ceviche *carta *mi 
+#ingredientes 
+11 1 
+13 1 
+16 1 
+24 1 
+35 2 
+49 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+390 *pasta a la marinera *carta *sa 
+#ingredientes 
+12 1 
+27 1 
+29 1 
+35 2 
+40 1 
+46 2 
+47 1 
+49 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+400 *pizza a caballo *diario 
+#ingredientes 
+10 2 
+11 1 
+22 1 
+26 2 
+27 1 
+35 2 
+38 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+410 *arroz chino *carta *do 
+#ingredientes 
+11 1 
+12 1 
+15 1 
+18 1 
+20 3 
+39 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+420 *arroz con pollo *diario 
+#ingredientes 
+10 1 
+11 1 
+12 1 
+15 1 
+17 1 
+19 1 
+20 3 
+23 2 
+30 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+430 *caldo de pollo *diario 
+#ingredientes 
+11 1 
+23 4 
+43 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+440 *filet mignon *carta *lu
+#ingredientes 
+11 1 
+12 1 
+20 1 
+22 2 
+33 1 
+36 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+450 *tacos *carta *ju 
+#ingredientes 
+10 1 
+11 1 
+13 1 
+21 1 
+22 2 
+27 1 
+30 1 
+37 1 
+48 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+460 *calzone *diario 
+#ingredientes 
+10 1 
+11 1 
+12 1 
+15 1 
+22 2 
+23 2 
+27 2 
+30 1 
+36 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+470 *quiche *carta *vi 
+#ingredientes 
+15 1 
+18 1 
+23 1 
+27 1 
+46 1 
+47 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+480 *crepe de pollo *carta *vi 
+#ingredientes 
+23 2 
+27 1 
+36 1 
+38 1 
+46 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+490 *crepe de carne *carta *vi 
+#ingredientes 
+10 2 
+11 1 
+12 1 
+22 2 
+27 1 
+30 1 
+50 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+500 *crepe de mariscos *diario 
+#ingredientes 
+27 1 
+35 2 
+38 1 
+46 2 
+49 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+510 *sopa de verduras *diario 
+#ingredientes 
+12 1 
+15 2 
+17 1 
+19 1 
+26 1 
+29 1 
+36 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+520 *sushi *diario 
+#ingredientes 
+20 3 
+24 1 
+35 1 
+42 1 
+49 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+530 *pad thai *carta *sa 
+#ingredientes 
+11 1 
+15 1 
+18 1 
+29 1 
+35 1 
+45 2 
+49 2 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+540 *patacon *carta *ma 
+#ingredientes 
+10 1 
+11 1 
+19 2 
+22 1 
+23 1 
+29 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+550 *desayuno americano *carta *lu 
+#ingredientes 
+26 2 
+29 1 
+32 2 
+33 2 
+34 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+560 *huevos pericos *carta *mi 
+#ingredientes 
+10 2 
+11 2 
+12 1 
+26 2 
+29 1 
+31 1 
+33 1 
+37 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+570 *pollo al horno *diario 
+#ingredientes 
+11 1 
+12 2 
+15 1 
+17 1 
+20 1 
+23 3 
+29 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+580 *pescado frito *diario
+#ingredientes 
+14 1 
+19 1 
+20 1 
+24 2 
+25 2 
+29 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+590 *milanesa de pollo *diario 
+#ingredientes 
+15 1 
+20 1 
+23 2 
+25 2 
+29 1 
+0
+#PLATO 
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+600 *milanesa de carne *carta *ma 
+#ingredientes 
+17 1 
+22 2 
+25 2 
+29 1 
+0
+#FIN
